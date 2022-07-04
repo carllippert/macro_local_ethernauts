@@ -1,5 +1,5 @@
 # Vault
-
+    
 - Pass this challenge by unlocking the vault, on this challenge you'll need to code on `VaultHelper.ts` to get the private data!
 
 # Hints
