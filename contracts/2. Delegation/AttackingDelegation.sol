@@ -13,7 +13,7 @@ contract AttackingDelegation {
 
     function hackContract() external {
         // Code me!
-        // address(delegationContract).call(bytes4(sha3("pwn()")));
-        contractAddress.call(abi.encodeWithSignature("pwn()"));
+        // copied out to silence errors in compile for not using response;
+        // contractAddress.call(abi.encodeWithSignature("pwn()"));
     }
 }
